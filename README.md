@@ -81,4 +81,4 @@ Tests 5 query categories: version lookup, CVE lookup, date specific query, out o
 ![App-demo 1](ss2.png)
 
 ### Poster
-![Poster](CAIS 2026 Research Poster.pdf)
+![Poster](Poster.png)
